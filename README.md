@@ -31,9 +31,8 @@ export const FIREBASE_CONFIG = {
 
 ## Preview
 
-![homescreen](https://raw.githubusercontent.com/venits/react-native-market/master/assets/firebase-login-template/homescreen.png)
-![login](https://raw.githubusercontent.com/venits/react-native-market/master/assets/firebase-login-template/login.png)
-![register](https://raw.githubusercontent.com/venits/react-native-market/master/assets/firebase-login-template/register.png)
-![forgot](https://raw.githubusercontent.com/venits/react-native-market/master/assets/firebase-login-template/forgot.png)
-![dashboard](https://raw.githubusercontent.com/venits/react-native-market/master/assets/firebase-login-template/dashboard.png)
-
+![Login/sign up](https://user-images.githubusercontent.com/61985499/119456503-5b367780-bd58-11eb-9d93-854848c3ebfb.jpeg)
+![Switched to Dark Mode](https://user-images.githubusercontent.com/61985499/119456545-67223980-bd58-11eb-8d10-6e4bcad8e1d1.jpeg)
+![Create Account](https://user-images.githubusercontent.com/61985499/119456778-a486c700-bd58-11eb-91fa-c788356f5490.jpeg)
+![Add Bank Account](https://user-images.githubusercontent.com/61985499/119456902-bec0a500-bd58-11eb-9cf6-cc854b9a0f5b.jpeg)
+![Added Back Accounts](https://user-images.githubusercontent.com/61985499/119457007-d7c95600-bd58-11eb-97ce-7e7b1bcb60dd.jpeg)
